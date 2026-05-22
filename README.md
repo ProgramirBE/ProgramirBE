@@ -4,8 +4,8 @@
 
 ### 🏗️ I'm currently working on
 
-<a href="https://github.com/islamu-ngo/explore">
-  <img src="https://helio-github-stats.vercel.app/api/pin?username=islamu-ngo&repo=explore&theme=default&hide_border=false&border_radius=4.5&card_width=466" />
+<a href="https://github.com/islamu-ngo/event">
+  <img src="https://helio-github-stats.vercel.app/api/pin?username=islamu-ngo&repo=event&theme=default&hide_border=false&border_radius=4.5&card_width=466" />
 </a>
 
 <p align="center">
@@ -20,10 +20,10 @@
   <a href="https://www.linkedin.com/in/amir-akrari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://amirakrari.bsky.social">
+  <a href="https://bsky.app/profile/amirakrari.dev">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
   </a>
-  <a href="mailto:amirakrari@gmail.com?subject=Hi%20!&body=Hi%20!%0A%0AComing%20from%20your%20Github%20Readme%20!">
+  <a href="mailto:contact@amirakrari.dev?subject=Hi%20!&body=Hi%20!%0A%0AComing%20from%20your%20Github%20Readme%20!">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
