@@ -28,11 +28,11 @@
   </a>
 </p>
 
-<a href="https://app.daily.dev/amirakrari"><img src="./devcard.png" width="356" alt="Amir's Dev Card"/></a>
+<a href="https://app.daily.dev/amirakrari"><img src="./devcard.png" width="356" alt="Amir's Daily Dev Card"/></a>
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=amirakrari&theme=default&hide_border=false&border_radius=4.5&locale=pt&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://git.io/streak-stats)
+<a href="https://gitfut.com/amirakrari"><img src="https://gitfut.com/amirakrari.png" width="356" alt="Amir's Gitfut Card"/></a>
 
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=amirakrari&custom_title=GitHub%2520Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/amirakrari)
 
